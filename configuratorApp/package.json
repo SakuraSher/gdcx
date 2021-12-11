@@ -1,0 +1,25 @@
+{
+  "name": "configuratorapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakuraSher/gdcx.git"
+  },
+  "keywords": [
+    "configurator"
+  ],
+  "author": "Amulya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakuraSher/gdcx/issues"
+  },
+  "homepage": "https://github.com/SakuraSher/gdcx#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
